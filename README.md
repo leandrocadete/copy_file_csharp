@@ -1,2 +1,4 @@
-# copy_file_csharp
-Copy files recursively in csharp
+# Copy files in csharp
+Copy files and directories recursively in csharp
+
+### Usage
